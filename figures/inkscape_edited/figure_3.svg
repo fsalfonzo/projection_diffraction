@@ -26,9 +26,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="1.8169693"
-     inkscape:cx="334.89833"
-     inkscape:cy="174.74153"
+     inkscape:zoom="3.6339386"
+     inkscape:cx="245.3261"
+     inkscape:cy="232.66766"
      inkscape:window-width="1452"
      inkscape:window-height="1230"
      inkscape:window-x="1017"
@@ -53,6 +53,25 @@
   </metadata>
   <defs
      id="defs444960">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="4.9916334"
+       markerHeight="5.6666179"
+       viewBox="0 0 4.9916334 5.6666178"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
     <style
        type="text/css"
        id="style444958">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
@@ -2374,7 +2393,8 @@
       </g>
       <g
          clip-path="url(#p4e97ca8513)"
-         id="g445925">
+         id="g445925"
+         transform="translate(0,-5.2527776)">
         <image
            height="36.959999"
            id="image857fa53b24"
@@ -2400,9 +2420,9 @@
         <rect
            style="fill:none;fill-opacity:0;stroke:#32dccd;stroke-width:1.05056;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
            id="rect446315-5"
-           width="57.095623"
-           height="55.7845"
-           x="182.97055"
+           width="67.555511"
+           height="55.784515"
+           x="172.51065"
            y="156.75198" />
         <path
            d="m 251.52358,52.298867 h 0.088 v 36.174642 h -0.088 z"
@@ -2831,6 +2851,37 @@
              x="265.52045"
              y="52.737522"
              id="tspan454338-4-8">NN</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.25278px;fill:#000000;stroke-width:0.656597"
+           x="205.80247"
+           y="218.75426"
+           id="text20992"><tspan
+             sodipodi:role="line"
+             style="font-size:5.25278px;text-align:center;text-anchor:middle;stroke-width:0.656597"
+             x="205.80247"
+             y="218.75426"
+             id="tspan21044">Division state of cells:</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:5.25278px;text-align:center;text-anchor:middle;stroke-width:0.656597"
+             x="205.80247"
+             y="225.32024"
+             id="tspan24645">region of uncertainty</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.25278px;fill:#000000;stroke-width:0.656597;stroke-linecap:butt;stroke-linejoin:round"
+           x="360.18878"
+           y="239.72238"
+           id="text20992-3"><tspan
+             sodipodi:role="line"
+             style="font-size:5.25278px;text-align:center;text-anchor:middle;stroke-width:0.656597"
+             x="360.18878"
+             y="239.72238"
+             id="tspan21044-7">Division point</tspan></text>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.656597;stroke-opacity:1;marker-end:url(#TriangleStart)"
+           d="m 361.01767,234.63235 v -5.22654"
+           id="path21102" />
       </g>
     </g>
     <g

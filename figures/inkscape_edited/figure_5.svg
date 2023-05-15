@@ -7,6 +7,9 @@
    id="svg488162"
    sodipodi:docname="figure_5.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="figure_5.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,15 +29,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.72840825"
-     inkscape:cx="258.09702"
-     inkscape:cy="-282.12201"
+     inkscape:zoom="8.2409986"
+     inkscape:cx="195.36467"
+     inkscape:cy="79.78402"
      inkscape:window-width="1452"
      inkscape:window-height="1230"
-     inkscape:window-x="1306"
-     inkscape:window-y="137"
+     inkscape:window-x="1358"
+     inkscape:window-y="144"
      inkscape:window-maximized="0"
-     inkscape:current-layer="axes_6" />
+     inkscape:current-layer="figure_1" />
   <metadata
      id="metadata486279">
     <rdf:RDF>
@@ -4439,8 +4442,9 @@
     </g>
     <path
        style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:1.2;stroke-opacity:1;marker-end:url(#TriangleStart)"
-       d="m 136.34455,46.585974 12.41926,7.581416"
-       id="path490528" />
+       d="m 154.27932,79.798765 0.0861,-13.968331"
+       id="path490528"
+       sodipodi:nodetypes="cc" />
   </g>
   <defs
      id="defs488160">

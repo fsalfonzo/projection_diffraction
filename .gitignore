@@ -170,3 +170,4 @@ microcolony_analysis/data*
 *.zarr/
 *.zarr
 .zarr*
+*.tar
