@@ -1,0 +1,4 @@
+napari[all]
+numpy
+zarr
+
