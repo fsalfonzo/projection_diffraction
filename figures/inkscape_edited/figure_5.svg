@@ -7,7 +7,7 @@
    id="svg488162"
    sodipodi:docname="figure_5.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   inkscape:export-filename="figure_5.png"
+   inkscape:export-filename="figure_5.tiff"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,15 +29,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="8.2409986"
-     inkscape:cx="195.36467"
-     inkscape:cy="79.78402"
+     inkscape:zoom="2.0602497"
+     inkscape:cx="163.08703"
+     inkscape:cy="107.02586"
      inkscape:window-width="1452"
      inkscape:window-height="1230"
      inkscape:window-x="1358"
      inkscape:window-y="144"
      inkscape:window-maximized="0"
-     inkscape:current-layer="figure_1" />
+     inkscape:current-layer="axes_1" />
   <metadata
      id="metadata486279">
     <rdf:RDF>
@@ -156,7 +156,8 @@
            id="path486313" />
       </g>
       <g
-         id="patch_6">
+         id="patch_6"
+         transform="translate(-103.5)">
         <path
            d="m 144.07532,24.342904 h 17.46401 v 0.948995 h -17.46401 z"
            style="fill:#ffffff"
