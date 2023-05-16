@@ -171,3 +171,5 @@ microcolony_analysis/data*
 *.zarr
 .zarr*
 *.tar
+.idea/
+.idea/*

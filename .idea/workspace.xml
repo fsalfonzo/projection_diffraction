@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a64c84f5-235f-4f86-b77b-b39f75010a45" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SI_assets/snapshots.svg" beforeDir="false" afterPath="$PROJECT_DIR$/SI_assets/snapshots.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/figure_1/figure_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/figures/figure_1/figure_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/figure_2/figure_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/figures/figure_2/figure_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/figure_3/figure_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/figures/figure_3/figure_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/figure_5/figure_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/figures/figure_5/figure_5.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/figures/figure_7/figure_7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/figures/figure_7/figure_7.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/inkscape_edited/figure_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/inkscape_edited/figure_1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/inkscape_edited/figure_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/inkscape_edited/figure_2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/inkscape_edited/figure_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/inkscape_edited/figure_3.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/inkscape_edited/figure_4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/inkscape_edited/figure_4.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/inkscape_edited/figure_5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/inkscape_edited/figure_5.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/inkscape_edited/figure_6.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/inkscape_edited/figure_6.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figures/inkscape_edited/figure_7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/figures/inkscape_edited/figure_7.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single_cell_projection_diffraction/01_A_B_01_PC_FL_membrane_estimation_slice_projection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/single_cell_projection_diffraction/01_A_B_01_PC_FL_membrane_estimation_slice_projection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +48,7 @@
       <updated>1684146448539</updated>
       <workItem from="1684146449914" duration="1337000" />
       <workItem from="1684148492818" duration="1301000" />
-      <workItem from="1684243407190" duration="78000" />
+      <workItem from="1684243407190" duration="872000" />
     </task>
     <servers />
   </component>
