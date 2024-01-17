@@ -48,8 +48,8 @@ def update(cells):
             # Remove cells from the simulation if they are more than 15 units from the centre.
             #if (abs(cell.pos[1]) > 15):
             #    cell.killFlag = True
-            if r > 25:
-                cell.killFlag = True
+            #if r > 25:
+            #    cell.killFlag = True
         gr = cell.strainRate / 0.05
         cgr = gr - 0.5
 

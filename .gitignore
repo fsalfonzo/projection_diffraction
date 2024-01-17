@@ -155,6 +155,11 @@ cython_debug/
 *.tiff
 *.tif
 *.png
+*.svg
+*.bak
+*.pdf
+*.p
+*.tar.gz
 _*/
 cellpose_residual*
 *.nd2
@@ -173,3 +178,4 @@ microcolony_analysis/data*
 *.tar
 .idea/
 .idea/*
+
