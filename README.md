@@ -1,3 +1,0 @@
-# frontiers_in_physics_for_reviewers
- 
-# projection_diffraction_frontiers_in_physics
