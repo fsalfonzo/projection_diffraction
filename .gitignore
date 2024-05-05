@@ -159,6 +159,7 @@ cython_debug/
 *.pdf
 *.p
 *.tar.gz
+*.svg
 _*/
 cellpose_residual*
 *.nd2
@@ -177,4 +178,4 @@ microcolony_analysis/data*
 *.tar
 .idea/
 .idea/*
-
+zenodo/*
