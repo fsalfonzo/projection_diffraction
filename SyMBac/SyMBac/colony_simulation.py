@@ -63,7 +63,7 @@ class ColonySimulation:
             except:
                 pass
             self.simulation = Simulator(self.cellmodeller_model, dt = 0.025, clPlatformNum=0, clDeviceNum=0, saveOutput=True, pickleSteps=1,
-                            outputDirName=f"{self.save_dir}/{str(self.n_simulations)}", is_gui=True)
+                            outputDirName=f"{self.save_dir}/{str(self.n_simulations)}", is_gui=False)
 
             # Run the simulation to ~n cells
             while len(self.simulation.cellStates) < self.max_cells:
