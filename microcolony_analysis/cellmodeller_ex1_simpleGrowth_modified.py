@@ -27,6 +27,7 @@ def setup(sim):
         print("Running in batch mode: no display will be output")
 
     sim.pickleSteps = 10
+    sim.saveOutput = True
 
 def init(cell):
     # Specify mean and distribution of initial cell size
