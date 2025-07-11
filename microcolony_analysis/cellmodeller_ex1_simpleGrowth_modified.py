@@ -23,6 +23,8 @@ def setup(sim):
         from CellModeller.GUI import Renderers
         therenderer = Renderers.GLBacteriumRenderer(sim)
         sim.addRenderer(therenderer)
+    else:
+        print("Running in batch mode: no display will be output")
 
     sim.pickleSteps = 10
 
